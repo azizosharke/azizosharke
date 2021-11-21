@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/abdelaziz-abushark-56b0b2208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelaziz-abushark" height="30" width="40" /></a>
 <a href="https://www.instagram.com/theaziz02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thaaziz02" height="30" width="40" /></a>
-  <a href="https://github.com/azizosharke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="thaaziz02" height="30" width="40" /></a>g
+  <a href="https://www.github.com/azizosharke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="thaaziz02" height="30" width="40" /></a>g
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
