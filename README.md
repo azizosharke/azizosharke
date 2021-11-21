@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abdelaziz-abushark-56b0b2208/](https://www.linkedin.com/in/abdelaziz-abushark-56b0b2208/)
 
-- 💡 In my free time I play my musical instrument Kanun [https://www.youtube.com/watch?v=WvS_a1bvv_U/]
+- 💡 In my free time I play my musical instrument Kanun (https://www.youtube.com/watch?v=WvS_a1bvv_U/)
 
 - ⚡ Fun fact **I think I am funny**
 
