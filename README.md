@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aziz Abushark</h1>
 <h3 align="center">Computer Science and Business Student</h3>
-<img align="right" src="GithubDash.jpg" alt="c" width="400" height="300"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizosharke&label=Profile%20views&color=0e75b6&style=flat" alt="azizosharke" /> </p>
 
