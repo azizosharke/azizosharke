@@ -1,31 +1,18 @@
-<h1 align="center">Hi 👋, I'm Aziz Abushark</h1>
-<h3 align="center">Computer Science and Business Student</h3>
+kills: Java / C++ / XML 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azizosharke&label=Profile%20views&color=0e75b6&style=flat" alt="azizosharke" /> </p>
+- 🔭 I’m currently working on My own projects  
+- 🌱 I’m currently learning Python  
+- 📫 How to reach me: abdelaza@tcd.ie 
+- ⚡ Fun fact: I do business with computer science  
+- 👀 I’m interested in Music, Football, Coding, and Finance
 
-- 🔭 I’m currently working on [My own projects](https://github.com/azizosharke/ProgrammingProjectGroup)
 
-- 🌱 I’m currently learning **Python**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/azizosharke)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdelaziz-abushark/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/theaziz02/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/azizosharke)  
 
-- 👨‍💻 All of my projects are available at [https://github.com/azizosharke](https://github.com/azizosharke)
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-- 📫 How to reach me **abdelaza@tcd.ie**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizosharke)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abdelaziz-abushark-56b0b2208/](https://www.linkedin.com/in/abdelaziz-abushark-56b0b2208/)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=azizosharke&show_icons=true)  
 
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/abdelaziz-abushark-56b0b220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelaziz abushark" height="30" width="40" /></a>
-<a href="https://instagram.com/thaaziz02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thaaziz02" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azizosharke&show_icons=true&locale=en&layout=compact" alt="azizosharke" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizosharke&show_icons=true&locale=en" alt="azizosharke" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azizosharke&" alt="azizosharke" /></p>
+![Profile views](https://gpvc.arturio.dev/azizosharke)  
