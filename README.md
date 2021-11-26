@@ -33,7 +33,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/p
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azouzosharke&layout=compact" alt="azouzosharke" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizosharke&layout=compact" alt="azizosharke" /></p>
 
 
 
