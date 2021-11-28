@@ -36,7 +36,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/p
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizosharke&layout=compact" alt="azizosharke" /></p>
 
-[![alicedoherty's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicedoherty&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![azizosharke's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizosharke&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
