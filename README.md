@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science and Business Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizosharke&label=Profile%20views&color=0e75b6&style=flat" alt="azizosharke" /> </p> 
-(https://img.shields.io/github/followers/azizosharke?label=follow&style=social)](https://github.com/azizosharke)
+[![GitHub azizosharke](https://img.shields.io/github/followers/azizosharke?label=follow&style=social)](https://github.com/azizosharke)
 
 - 🔭 I’m currently working on **My Own Projects**
 
