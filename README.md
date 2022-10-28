@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/azizosharke](https://github.com/azizosharke)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abdelaziz-abushark-56b0b2208/](https://www.linkedin.com/in/abdelaziz-abushark-56b0b2208/)
-- 
+
 - 📫 How to reach me **abdelaza@tcd.ie**
 
 <h3 align="left">Connect with me:</h3>
