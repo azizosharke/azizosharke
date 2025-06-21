@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aziz Abushark</h1>
-<h3 align="center">Computer Science and Business Student</h3>
+<h3 align="center"> Cybersecurity Student</h3>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ahmed-mahdi18.azizosharke) [![GitHub azizosharke](https://img.shields.io/github/followers/azizosharke?label=follow&style=social)](https://github.com/azizosharke) 
 
